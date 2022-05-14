@@ -1,0 +1,11 @@
+﻿  Search_tree.cpp
+C:\Users\迷茫的剑客\source\data-structure\Search_Tree\Project1\Project1\Search_tree.cpp(250,5): error C2369: “a”: 重定义；不同的下标
+C:\Users\迷茫的剑客\source\data-structure\Search_Tree\Project1\Project1\Search_tree.cpp(224): message : 参见“a”的声明
+C:\Users\迷茫的剑客\source\data-structure\Search_Tree\Project1\Project1\Search_tree.cpp(250,11): error C2373: “sz”: 重定义；不同的类型修饰符
+C:\Users\迷茫的剑客\source\data-structure\Search_Tree\Project1\Project1\Search_tree.cpp(223): message : 参见“sz”的声明
+C:\Users\迷茫的剑客\source\data-structure\Search_Tree\Project1\Project1\Search_tree.cpp(255,35): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\迷茫的剑客\source\data-structure\Search_Tree\Project1\Project1\Search_tree.cpp(256,15): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\迷茫的剑客\source\data-structure\Search_Tree\Project1\Project1\Search_tree.cpp(264,13): error C2109: 下标要求数组或指针类型
+C:\Users\迷茫的剑客\source\data-structure\Search_Tree\Project1\Project1\Search_tree.cpp(276,23): error C2109: 下标要求数组或指针类型
+C:\Users\迷茫的剑客\source\data-structure\Search_Tree\Project1\Project1\Search_tree.cpp(276,38): error C2109: 下标要求数组或指针类型
+C:\Users\迷茫的剑客\source\data-structure\Search_Tree\Project1\Project1\Search_tree.cpp(289,31): error C2109: 下标要求数组或指针类型
